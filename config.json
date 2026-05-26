@@ -1,0 +1,23 @@
+{
+  "dark_mode": false,
+  "retry_max": 1,
+  "retry_interval": 2.0,
+  "image_timeout": 3.0,
+  "api_key": "sk-d3e3595b572847269558a519d2efa07c",
+  "api_model": "deepseek-v4-flash",
+  "app_protect": true,
+  "check_update": false,
+  "sched_enabled": false,
+  "sched_hour": 23,
+  "sched_minute": 13,
+  "sched_repeat_mode": "once",
+  "sched_weekdays": [
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false
+  ]
+}
